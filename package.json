@@ -1,0 +1,23 @@
+{
+  "name": "casa-do-codigo-node",
+  "version": "1.0.0",
+  "description": "Livraria Casa do Codigo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brunapupo/casa-do-codigo-node.js.git"
+  },
+  "author": "Bruna Pupo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brunapupo/casa-do-codigo-node.js/issues"
+  },
+  "homepage": "https://github.com/Brunapupo/casa-do-codigo-node.js#readme",
+  "dependencies": {
+    "express": "4.16.3"
+  }
+}
